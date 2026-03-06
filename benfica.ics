@@ -1,4 +1,118 @@
 BEGIN:VCALENDAR
+X-WR-CALNAME:Benfica zerozero.pt
 VERSION:2.0
-PRODID:-//placeholder//benfica-ics//EN
+PRODID:-//CALTEAM4//Benfica zerozero.pt//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:TEAM41
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260302T201500
+DTEND;TZID=Europe/Lisbon:20260302T221500
+LOCATION:Estádio Cidade de Barcelos - Barcelos
+SUMMARY:Gil Vicente 1-2 Benfica - Liga Portuguesa [J24]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071734
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM42
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260308T180000
+DTEND;TZID=Europe/Lisbon:20260308T200000
+LOCATION:Estádio do Sport Lisboa e Benfica - Lisboa
+SUMMARY:Benfica vs FC Porto - Liga Portuguesa [J25]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071774
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM43
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260314T203000
+DTEND;TZID=Europe/Lisbon:20260314T223000
+LOCATION:Estádio Municipal de Arouca - Arouca
+SUMMARY:FC Arouca vs Benfica - Liga Portuguesa [J26]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071520
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM44
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260321T180000
+DTEND;TZID=Europe/Lisbon:20260321T200000
+LOCATION:Estádio do Sport Lisboa e Benfica - Lisboa
+SUMMARY:Benfica vs Vitoria SC - Liga Portuguesa [J27]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071558
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM45
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260404T153000
+DTEND;TZID=Europe/Lisbon:20260404T173000
+LOCATION:Estádio Municipal de Rio Maior - Rio Maior
+SUMMARY:Casa Pia AC vs Benfica - Liga Portuguesa [J28]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071626
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM46
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260412T153000
+DTEND;TZID=Europe/Lisbon:20260412T173000
+LOCATION:Estádio do Sport Lisboa e Benfica - Lisboa
+SUMMARY:Benfica vs Nacional - Liga Portuguesa [J29]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071666
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM47
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260419T153000
+DTEND;TZID=Europe/Lisbon:20260419T173000
+LOCATION:Estádio José Alvalade - Lisboa
+SUMMARY:Sporting vs Benfica - Liga Portuguesa [J30]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071676
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM48
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260426T153000
+DTEND;TZID=Europe/Lisbon:20260426T173000
+LOCATION:Estádio do Sport Lisboa e Benfica - Lisboa
+SUMMARY:Benfica vs Moreirense - Liga Portuguesa [J31]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071718
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM49
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260503T153000
+DTEND;TZID=Europe/Lisbon:20260503T173000
+LOCATION:Estádio Municipal de Famalicão - Vila Nova de Famalicão
+SUMMARY:FC Famalicao vs Benfica - Liga Portuguesa [J32]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11072353
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM410
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260510T153000
+DTEND;TZID=Europe/Lisbon:20260510T173000
+LOCATION:Estádio do Sport Lisboa e Benfica - Lisboa
+SUMMARY:Benfica vs SC Braga - Liga Portuguesa [J33]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071756
+END:VEVENT
+BEGIN:VEVENT
+UID:TEAM411
+DTSTAMP:20260306T231022Z
+DTSTART;TZID=Europe/Lisbon:20260517T153000
+DTEND;TZID=Europe/Lisbon:20260517T173000
+LOCATION:Estádio António Coimbra da Mota - Estoril
+SUMMARY:Estoril Praia vs Benfica - Liga Portuguesa [J34]
+DESCRIPTION:Liga Portugal Betclic 25/26
+URL:https://www.zerozero.pt/jogo/-/11071784
+END:VEVENT
+
 END:VCALENDAR
