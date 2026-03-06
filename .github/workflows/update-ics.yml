@@ -19,7 +19,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          URL="https://www.zerozero.pt/agenda_ics.php?id_equipa=4&code=97c4e695460023a46f2200249c73d1c257e0fee9850bf&matches=1"
+          URL="https://www.zerozero.pt/agenda_ics.php?id_equipa=4&code=97c4e695460023a46f2200249c73d1c257e0fee9850bf&matches=1&imp"
 
           # fetch with basic browser-like headers
           curl -L --fail \
